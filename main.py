@@ -1,3 +1,4 @@
+#!usr/bin/env python3
 from mss import mss
 import cv2
 from PIL import Image
